@@ -32,4 +32,15 @@ public class Anime {
 		System.out.println("The power of pencil");
 	}
 	
+	private void sachin() {
+		System.out.println("God of Cricket");
+
+	}
+	
+	private void dada() 
+	{
+		System.out.println("Pillar of Indian Cricket");
+
+	}
+
 }
