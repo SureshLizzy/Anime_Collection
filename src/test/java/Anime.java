@@ -16,7 +16,20 @@ public class Anime {
 	
 	private void tomAndJerry() {
 		System.out.println("God of Cartoons");
-
+		
 	}
-
+	
+	private void bandalero() {
+		System.out.println("The Hero of village peoples");
+		
+	}
+	
+	private void poppeye() {
+		System.out.println("The power of spinach");
+	}
+	
+	private void sakalakaBoomBoom() {
+		System.out.println("The power of pencil");
+	}
+	
 }
