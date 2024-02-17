@@ -9,8 +9,19 @@ public class Anime {
 		System.out.println("Ash's Pet");
 	}
 	
+	private void shakitman() {
+		System.out.println("Superman Power");
+
+	}
+	
+	private void tomAndJerry() {
+		System.out.println("God of Cartoons");
+		
+	}
+	
 	private void bandalero() {
 		System.out.println("The Hero of village peoples");
+		
 	}
 	
 	private void poppeye() {
@@ -20,5 +31,5 @@ public class Anime {
 	private void sakalakaBoomBoom() {
 		System.out.println("The power of pencil");
 	}
-
+	
 }
